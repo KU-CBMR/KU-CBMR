@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KU-CBMR, 🇩🇰
+- 👋 Hi, I’m siyu, @KU-CBMR, 🇩🇰  :)
 - 👀 I’m interested in AI and microbiome
-- 🌱 I’m currently learning how to use AI in microbiome field
-- 📫 How to reach me, please on Github. :)
+- 🌱 I’m currently applying AI in the microbiome field
 
 
 <!---
