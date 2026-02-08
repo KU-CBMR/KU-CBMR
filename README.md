@@ -1,4 +1,4 @@
-- 👋 Hi, I’m siyu, @KU-CBMR, 🇩🇰  :)
+- 👋 Hi, I’m Siyu, @KU-CBMR, 🇩🇰  :)
 - 👀 I’m interested in AI and microbiome
 - 🌱 I’m currently applying AI in the microbiome field
 
